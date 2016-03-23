@@ -1,0 +1,3 @@
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\test_WPFView\bin\Debug\test_WPFView.exe.config
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\test_WPFView\obj\Debug\test_WPFView.exe
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\test_WPFView\obj\Debug\test_WPFView.pdb

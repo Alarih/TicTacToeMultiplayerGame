@@ -1,0 +1,5 @@
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeGame\bin\Debug\TicTacToeGame.dll
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeGame\bin\Debug\TicTacToeGame.pdb
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeGame\obj\Debug\TicTacToeGame.dll
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeGame\obj\Debug\TicTacToeGame.pdb
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeGame\obj\Debug\TicTacToeGame.csprojResolveAssemblyReference.cache

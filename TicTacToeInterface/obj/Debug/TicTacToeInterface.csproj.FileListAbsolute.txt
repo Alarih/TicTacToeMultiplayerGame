@@ -1,0 +1,16 @@
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\bin\Debug\TicTacToeInterface.exe.config
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\TicTacToeInterface.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\MainWindow.g.cs
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\App.g.cs
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\TicTacToeInterface_MarkupCompile.cache
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\TicTacToeInterface_MarkupCompile.lref
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\bin\Debug\TicTacToeInterface.exe
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\bin\Debug\TicTacToeInterface.pdb
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\bin\Debug\TicTacToeGame.dll
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\bin\Debug\TicTacToeGame.pdb
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\MainWindow.baml
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\TicTacToeInterface.g.resources
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\TicTacToeInterface.Properties.Resources.resources
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\TicTacToeInterface.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\TicTacToeInterface.exe
+C:\Users\Антон\Documents\TFS\TicTacToe\TicTacToeGame\Dev\Danil\TicTacToeInterface\obj\Debug\TicTacToeInterface.pdb

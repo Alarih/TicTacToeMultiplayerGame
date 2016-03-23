@@ -1,0 +1,19 @@
+﻿<Window x:Class="test_WPFView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:test_WPFView"
+        xmlns:tabs="clr-namespace:test_WPFView.Tabs"
+        mc:Ignorable="d"
+        Title="Крестики-нолики" Height="600" Width="500" WindowStartupLocation="CenterScreen" Icon="Images/crossCell.png" Closed="Window_Closed" ResizeMode="CanMinimize">
+    <TabControl x:Name="tabControl">
+        <tabs:Game />
+        <tabs:Options />
+        <tabs:Menu />
+        <tabs:ConnectMenu />
+        <tabs:ProfileTab />
+        <tabs:LeaderboardTab />
+    </TabControl>
+
+</Window>

@@ -1,0 +1,45 @@
+﻿<TabItem x:Class="test_WPFView.Tabs.LeaderboardTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:test_WPFView.Tabs"
+             xmlns:gif="http://wpfanimatedgif.codeplex.com"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300"
+             Visibility="Collapsed"
+         >
+    <TabItem.Resources>
+        <CollectionViewSource x:Key="ItemCollectionViewSource" CollectionViewType="ListCollectionView" />
+    </TabItem.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/bg.jpg"/>
+        </Grid.Background>
+        <!-- <Image gif:ImageBehavior.AnimatedSource="/Images/feuer.gif" Margin="0,140,0,0" Height="Auto"/> -->
+
+        <StackPanel>
+            <ScrollViewer MaxHeight="250">
+                <DataGrid 
+                  DataContext="{StaticResource ItemCollectionViewSource}"  
+                  ItemsSource="{Binding}"
+                  AutoGenerateColumns="False" 
+                  CanUserDeleteRows="False"  
+                  HorizontalAlignment="Left" 
+                  Name="leaderBoardGrid" 
+                  VerticalAlignment="Top"
+                  VerticalScrollBarVisibility="Auto"
+                  IsReadOnly="True" FontSize="18.667" Background="{x:Null}" OpacityMask="White" Foreground="Red"
+                >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Width="1*" Header="Имя" Binding="{Binding Path=Name}"/>
+                        <DataGridTextColumn Width="1*" Header="Победы" Binding="{Binding Path=WinGamesCounter}"/>
+                        <DataGridTextColumn Width="1*" Header="Ничьи" Binding="{Binding Path=DrawGamesCounter}"/>
+                        <DataGridTextColumn Width="1*" Header="Поражения" Binding="{Binding Path=LoseGamesCounter}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </ScrollViewer>
+            <Button Name="menuBtn" Content="Меню" Click="menuBtn_Click" Margin="0,50,0,0" Width="200" Height="52" FontSize="29.333"/>
+        </StackPanel>
+    </Grid>
+</TabItem>
